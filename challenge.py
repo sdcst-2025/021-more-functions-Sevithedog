@@ -44,7 +44,6 @@ def equal(p1,r1,p2,r2):
             return i
         if l > h:
             return i - 1 
-        input(f"{i} {x} {y}")
         i = 1+i
         
         
